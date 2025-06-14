@@ -12,7 +12,7 @@ export async function connectToDatabase() {
   // If no connection, create a new one
   // In a real application, you would use an environment variable for the connection string
   const uri = process.env.MONGODB_URI 
-"
+
 
   const client = new MongoClient(uri)
   await client.connect()
