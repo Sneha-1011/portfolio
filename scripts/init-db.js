@@ -500,7 +500,7 @@ const certifications = [{
   "title": "Human Capital Management",
   "issuer": "Great Learning",
   "date": "August 2023",
-  "description": " Presented the idea of building a software ADM: After Disaster Management, a disaster relief management.  Proposed real-time data integration for better situational awareness during emergencies.",
+  "description": "Completed a certified course covering key HCM areas like talent acquisition, performance management, and compensation. Gained insights into aligning HR strategies with business goals to enhance workforce productivity and engagement.",
   "url": "https://drive.google.com/file/d/1ciLPZ1OpC9bY88TTtFJeXkgd2NXvoCqe/view"
 },
 {
@@ -510,7 +510,7 @@ const certifications = [{
   "title": "Sales Management",
   "issuer": "Great Learning",
   "date": "August 2023",
-  "description": " Presented the idea of building a software ADM: After Disaster Management, a disaster relief management.  Proposed real-time data integration for better situational awareness during emergencies.",
+  "description": "Completed a beginner-level, self-paced course covering essential aspects of sales management, including objectives, strategies, team functions, principles, and the role and traits of an effective sales manager. Earned a certificate recognizing my grasp of key techniques to lead sales teams and drive organizational growth.",
   "url": "https://drive.google.com/file/d/15sY3mAywtnQdqpKhuN2XAevlrveT-rj4/view"
 },
 {
@@ -520,7 +520,7 @@ const certifications = [{
   "title": "Design App",
   "issuer": "Great Learning",
   "date": "September 2023",
-  "description": " Presented the idea of building a software ADM: After Disaster Management, a disaster relief management.  Proposed real-time data integration for better situational awareness during emergencies.",
+  "description": "Completed a foundational course on UI/UX using Adobe XD, mastering core principles like wireframing, prototyping, and user testing. Gained hands-on experience designing app interfaces and applying UI/UX philosophy to create intuitive and visually appealing user experiences.",
   "url": "https://drive.google.com/file/d/1Bbtt7xXpS0VJkUYKVAp9GtZTo8vOmk8G/view"
 },
 {
